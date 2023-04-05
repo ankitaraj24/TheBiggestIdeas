@@ -1,6 +1,6 @@
 # Team Name: 
 
-zThe Biggest Ideas
+The Biggest Ideas
 
 ## Team Members:
 
