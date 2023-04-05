@@ -13,7 +13,7 @@ The Biggest Ideas
 Our repository is focused on finding the best neighborhood in Pittsburgh:
 
 - Police Incident Data https://data.wprdc.org/dataset/police-incident-blotter
-- [Dataset 2 Name](insert link here)
+- Pittsburgh Public Schools Enrollment by Individualized Education Plan (IEP)https://data.wprdc.org/dataset/pittsburgh-public-schools-individualized-education-plan-iep
 - [Dataset 3 Name](insert link here)
 
 
