@@ -12,7 +12,7 @@ The Biggest Ideas
 
 Our repository is focused on finding the best neighborhood in Pittsburgh:
 
-- [Dataset 1 Name](insert link here)
+- Police Incident Data https://data.wprdc.org/dataset/police-incident-blotter
 - [Dataset 2 Name](insert link here)
 - [Dataset 3 Name](insert link here)
 
