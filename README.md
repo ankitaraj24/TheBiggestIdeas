@@ -6,14 +6,14 @@ The Biggest Ideas
 
 - Ayden Kauffman email: aak105@pitt.edu
 - Ankita Raj email: anr257@pitt.edu
-- [Insert Team Member Name 3] email: insert your email
+- Lihan Wang email: liw130@pitt.edu
 
 ## Description and Links to Datasets:
 
 Our repository is focused on finding the best neighborhood in Pittsburgh:
 
 - Police Incident Data https://data.wprdc.org/dataset/police-incident-blotter
-- [Dataset 2 Name](insert link here)
+- Playing Field Data https://data.wprdc.org/dataset/playing-fields
 - [Dataset 3 Name](insert link here)
 
 
